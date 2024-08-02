@@ -11,3 +11,36 @@ export const experiences = [
         technologies: ["Next.js", "Bootstrap", "SASS", "Strapi-Headless CMS"],
     },
 ];
+
+export const projects = [
+    {
+        title: "Online Book Store",
+        description:
+        "A fully functional online book store website with features like book list, cart, and user authentication.",
+        technologies: ["Node.js", "Express.js", "HTML", "CSS", "JavaScript", "Mysql"],
+    },
+    {
+        title: "Britannia",
+        description:
+        "An English Knowledge hubs to be fluent in language proficiency through reading writing and listening skills.",
+        technologies: ["HTML", "JavaScript", "CSS"],
+    },
+    {
+        title:"Counter",
+        description:
+        "A fully functional website with features like increment, decrement and delete counters.",
+        technologies: ["React.js", "Bootstrap"],
+    },
+    {
+        title:"Salon Booking App",
+        description:
+        "A fully functional website with features like book appoinments, check free time slots, and cansel appoinments",
+        technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Bootstrap"],
+    },
+];
+
+export const contact = {
+    address: "No. 248, Vimukthi, Kotapola, Sri Lanka.",
+    phoneNo: "+94769933714",
+    email: "medhadarani96@gmail.com",
+};
